@@ -1,0 +1,154 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.nav {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 12%;
+    height: 100vh;
+    position: fixed;
+    background: #122143;
+    overflow: hidden;
+}
+
+.nav a {
+        margin: 10px 0;
+        cursor: pointer;
+        padding: 20px 0;
+        color: white;
+        text-decoration: none;
+    }
+
+.navi i {
+    margin-right: 15px;
+    color: #5584ff;
+}
+    
+.active {
+        background: #122143 none repeat scroll 0 0;
+        border-left: 5px solid #5584ff;
+        display: block;
+        padding-left: 15px;
+    }
+
+.nav a.inactive:hover {
+    background: #122143 none repeat scroll 0 0;
+    border-left: 5px solid #5584ff;
+    display: block;
+    padding-left: 15px;
+}
+
+.mainPage
+{
+    position: relative;
+    left: 10%;
+    width: 80%;
+}
+
+.heading
+{
+    padding-top: 2rem;
+    margin: rem;
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+}
+
+
+.userData {
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.308);
+    position: inherit;
+    height: 120vh;
+    margin-top: 5rem;
+}
+
+.bioHeading {
+    width: 40%;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.18);
+    padding-bottom: 10px;
+    padding-top: 2rem;
+    margin-left: 20px;
+}
+
+.bio {
+    margin-left: 5%;
+    margin-top: 2rem;
+    font-size: medium;
+    font-weight: bolder;
+}
+.bio p {
+        margin: 2rem 0;
+        
+ }
+
+.bioValues {
+}
+
+.feed-label{
+    margin-right:4px;
+}
+.box-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 390vh;
+    background: transparent;
+    margin: 0 20px;
+    max-width: 80%;
+}
+
+.box {
+    width: 600px;
+    height: 370vh;
+    background-color: transparent;
+    margin-bottom: 30px;
+    margin-left: 10%;
+    z-index: 2;
+    font-family: 'Montserrat', sans-serif;
+}
+
+input[type="submit"] {
+    background-color: #5584ff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.table-condensed tr th {
+    border: 0px solid mediumpurple;
+    color: white;
+    background-color: mediumpurple;
+}
+
+.table-condensed, .table-condensed tr td {
+    border: 0px solid #000;
+}
+
+tr:nth-child(even) {
+    background: #f8f7ff
+}
+
+tr:nth-child(odd) {
+    background: #fff;
+}
+.hyper-dark{
+    text-decoration:none;
+    color:white;
+
+}
+.hyper-dark:hover {
+    text-decoration: none;
+    color: black;
+}
+.btn-purple{
+    background-color:mediumpurple;
+}
+.btn-purple:hover {
+    background-color: rebeccapurple;
+}
