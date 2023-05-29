@@ -1,8 +1,8 @@
 # Flex Portal
 
 ## How to run on your machine
-  1. Theres a file named data.excel, import the data into **SQL SERVER MANAGMENT STUDIO / ANY OF YOUR CHOICE DB SOFTWARE** , named the database as Excel_Data
-  2. Then, theres a file called design.sql , run that it will automatically create all tables and also load all dummy data
+  1. Theres a file named **data.xls**, import the data into **SQL SERVER MANAGMENT STUDIO / ANY OF YOUR CHOICE DB SOFTWARE** , named the database as Excel_Data
+  2. Then, theres a file called **design.sql** , run that it will automatically create all tables and also load all dummy data
   3. Now, download or pull the code , and run it on **VS CODE / ANY OF YOUR CHOICE COMPILOR** 
   4. Enjoy it!
 
