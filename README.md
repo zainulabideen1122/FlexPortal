@@ -1,13 +1,13 @@
 # Flex Portal
 
+## How to run on your machine
+  1. Theres a file named data.excel, import the data into **SQL SERVER MANAGMENT STUDIO / ANY OF YOUR CHOICE DB SOFTWARE** , named the database as Excel_Data
+  2. Then, theres a file called design.sql , run that it will automatically create all tables and also load all dummy data
+  3. Now, download or pull the code , and run it on **VS CODE / ANY OF YOUR CHOICE COMPILOR** 
+  4. Enjoy it!
+
 ## Entity Relationship Diagram (ERD)
 ![ERD FLex](https://github.com/zainulabideen1122/FlexPortal/assets/59528492/4ea0498e-9bf9-4097-aed8-3d11f01fa4dd)
-
-## How to run on your machine
-  1. Theres a file named data.excel, import the data into ** SQL SERVER MANAGMENT STUDIO / ANY OF YOUR CHOICE DB SOFTWARE ** , named the database as Excel_Data
-  2. Then, theres a file called design.sql , run that it will automatically create all tables and also load all dummy data
-  3. Now, download or pull the code , and run it on ** VS CODE / ANY OF YOUR CHOICE COMPILOR ** 
-  4. Enjoy it!
 
 
 # Login
