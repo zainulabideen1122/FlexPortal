@@ -1,5 +1,8 @@
 # Flex Portal
 
+A FLEX system is a database management system of FAST NUCES which involves designing and implementing a database to manage and schedule university students’ academic information. This type of system would allow the university to manage various aspects of student management, such as enrollment, course registration, scheduling, and student performance tracking. With a flex management system, students would be able to access and manage their academic information and schedules, while the university would be able to manage its resources and course offerings more effectively. The goal of a flex management system for students at Fast NUCES would be to improve the overall academic experience for students and optimize the university's operations.
+
+
 ## How to run on your machine
   1. Theres a file named **data.xls**, import the data into **SQL SERVER MANAGMENT STUDIO / ANY OF YOUR CHOICE DB SOFTWARE** , named the database as Excel_Data
   2. Then, theres a file called **design.sql** , run that it will automatically create all tables and also load all dummy data
